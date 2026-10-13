@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+gestion-proyectos-api
+*.log
+coverage.out
+vendor/
+.idea/
+.vscode/
+.DS_Store
+/api
